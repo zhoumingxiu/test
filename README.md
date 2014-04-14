@@ -10,15 +10,15 @@ public static void main(String[]args){}//Java
 printf("%d",a);//C
 ```
 ```Bash
-echo "hello GitHub"//Bash
+echo "hello GitHub"#Bash
 ```
 ```javascript
-<button type="button" onclick="alert('Welcome!')">点击这里</button>//javascript
-```
-```c++
-class operator=
+<button type="button" onclick="alert('Welcome!')">点击这里</button> //javascript
 ```
 ```cpp
-class
+class operator=
+```
+```c++
+class operator
 ```
 
