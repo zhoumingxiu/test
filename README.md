@@ -13,7 +13,7 @@ printf("%d",a);//C
 echo "hello GitHub"#Bash
 ```
 ```javascript
-<button type="button" onclick="alert('Welcome!')">点击这里</button> ///javascript
+<button type="button" onclick="alert('Welcome!')">点击这里<//button> //javascript
 ```
 ```cpp
 class operator=
