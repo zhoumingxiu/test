@@ -7,15 +7,15 @@ This is a repository that using to test all kinds of functions of GitHub.
 public static void main(String[]args){}//Java
 ```
 ```c
-printf("%d",a);//C
+int main(int argc, char *argv[])//C
 ```
 ```Bash
 echo "hello GitHub"#Bash
 ```
 ```javascript
-<button type="button" onclick="alert('Welcome!')">点击这里<//button> //javascript
+<button type="button" onclick="alert('Welcome!')">点击这里<\/button> //javascript
 ```
 ```cpp
-class operator=
+string &operator+(const string& A,const string& B)
 ```
 
