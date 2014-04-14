@@ -4,16 +4,16 @@ This is a repository that using to test all kinds of functions of GitHub.
 ---------------------------
 
 ```Java
-public static void main(String[]args){}
+public static void main(String[]args){}//Java
 ```
 ```c
-printf("%d",a);
+printf("%d",a);//C
 ```
 ```Bash
-echo "hello GitHub"
+echo "hello GitHub"//Bash
 ```
 ```javascript
-<button type="button" onclick="alert('Welcome!')">点击这里</button>
+<button type="button" onclick="alert('Welcome!')">点击这里</button>//javascript
 ```
 ```c++
 class operator=
