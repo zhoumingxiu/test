@@ -4,20 +4,19 @@ This is a repository that using to test all kinds of functions of GitHub.
 ---------------------------
 
 ```Java
-import java.lang.*;
-static
+public static void main(String[]args){}
 ```
 ```c
-switch
+printf("%d",a);
 ```
 ```Bash
-export
+echo "hello GitHub"
 ```
 ```javascript
 <button type="button" onclick="alert('Welcome!')">点击这里</button>
 ```
 ```c++
-class
+class operator=
 ```
 ```cpp
 class
