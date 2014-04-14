@@ -15,4 +15,10 @@ export
 ```javascript
 var 
 ```
+```c++
+class
+```
+```cpp
+class
+```
 
