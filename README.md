@@ -4,7 +4,7 @@ This is a repository that using to test all kinds of functions of GitHub.
 ---------------------------
 
 #显示图片
-![m](http://www.baidu.com/img/bdlogo.gif)
+![baidu](http://www.baidu.com/img/bdlogo.gif)
 
 #文字包围
 >文字包围
