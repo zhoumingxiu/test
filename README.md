@@ -5,12 +5,12 @@ This is a repository that using to test all kinds of functions of GitHub.
 
 #显示图片
 ##来源于网络的图片
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度Logo")
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 ##GitHub仓库中的图片
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 ##给图片加上超链接
 [![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
-[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入博客"
+[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
 
 #文字包围
 >文字包围
