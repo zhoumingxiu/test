@@ -3,12 +3,16 @@ TEST
 This is a repository that using to test all kinds of functions of GitHub.
 ---------------------------
 
+
+            
+
 #一级标题
 ##二级标题
 ###三级标题
 ####四级标题
 #####五级标题
 ######六级标题
+
 
 ##显示文本
 ###普通文本
@@ -26,6 +30,8 @@ Thank `You` . Please `Call` Me `Coder`
 ###文字链接
 [我的博客](http://blog.csdn.net/guodongxiaren/article/details/23690801 "悬停显示")
 
+
+
 ##显示图片
 ###来源于网络的图片
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
@@ -35,9 +41,23 @@ Thank `You` . Please `Call` Me `Coder`
 [![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
 [head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
 
-##文字包围
->文字包围
-文字包围
+##圆点符号
+* 昵称：果冻虾仁
+* 别名：隔壁老王
+* 英文名：Jelly
+
+###更多圆点
+* 编程语言
+    * 脚本语言
+        * Python
+
+##字符包围
+>数据结构
+>>树
+>>>二叉树
+>>>>平衡二叉树
+>>>>>满二叉树
+
 
 ##插入代码
 ```Java
