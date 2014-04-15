@@ -2,11 +2,15 @@ TEST
 ===========================
 This is a repository that using to test all kinds of functions of GitHub.
 ---------------------------
-##文字包围
+
+#显示图片
+![m](http://www.baidu.com/img/bdlogo.gif)
+
+#文字包围
 >文字包围
 文字包围
 
-###插入代码
+#插入代码
 ```Java
 public static void main(String[]args){} //Java
 ```
