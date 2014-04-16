@@ -2,7 +2,8 @@ TEST
 ===========================
 This is a repository using to test all kinds of functions of GitHub.
 ---------------------------
-
+###　　　　　　　　　　　　　　　　Author:Jelly
+###　　　　　　　　　　　　　E-mail:wlyrics@163.com
 
             
 
