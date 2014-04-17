@@ -5,7 +5,14 @@ This is a repository using to test all kinds of functions of GitHub.
 ###　　　　　　　　　　　　　　　　Author:Jelly
 ###　　　　　　　　　　　　　E-mail:wlyrics@163.com
 
-            
+===========================
+
+
+##***、---、___显示虚横线
+***
+---
+___
+
 
 #一级标题
 ##二级标题
