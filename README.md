@@ -35,7 +35,9 @@ ___
     祝您，早上好，中午好，下午好，晚安
 ###部分文字高亮
 Thank `You` . Please `Call` Me `Coder`
-
+####高亮功能更适合做一篇文章的tag
+例如:<br>
+`java` `网络编程` `Socket` `全双工`
 ###文字链接
 ####链接外部URL
 [我的博客](http://blog.csdn.net/guodongxiaren/article/details/23690801 "悬停显示")
