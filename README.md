@@ -75,7 +75,7 @@ Thank `You` . Please `Call` Me `Coder`
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 ###GitHub仓库中的图片
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
-###给图片加上超链接
+###<a name="piclink">给图片加上超链接
 [![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
 [head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
 
