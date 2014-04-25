@@ -6,7 +6,28 @@ This is a repository using to test all kinds of functions of GitHub.
 ###　　　　　　　　　 E-mail:wlyrics@163.com
 
 ===========================
+##<a name="index"/>目录
+* [横线](#line)
+* [标题](#title)
+* [显示文本](#text)
+    * 普通文本
+    * 单行文本
+    * 多行文本
+    * 部分文字高亮
+* [超链接](#link) 
+    * 文字超链接
+        *  链接外部URL
+        *  链接本仓库里的URL
+        *  锚点
+    * [图片超链接](#piclink)
+* [显示图片](#pic)
+    * 来源于网络的图片
+    * GitHub仓库中的图片
+* [圆点列表](#dot)
+* [符号包围](#symbol)
+* [代码高亮](#code)
 
+<a name="line"/>
 ##***、---、___显示虚横线
 ***
 ---
@@ -14,6 +35,7 @@ ___
 
 
 
+<a name="title"/>
 #一级标题
 ##二级标题
 ###三级标题
@@ -22,7 +44,7 @@ ___
 ######六级标题
 
 
-##显示文本
+##<a name="text"/>显示文本
 ###普通文本
 这是一段普通的文本，
 直接回车不能换行，<br>
@@ -38,14 +60,17 @@ Thank `You` . Please `Call` Me `Coder`
 ####高亮功能更适合做一篇文章的tag
 例如:<br>
 `java` `网络编程` `Socket` `全双工`
-###文字链接
-####链接外部URL
+
+
+##<a name="link"/>文字链接
+###链接外部URL
 [我的博客](http://blog.csdn.net/guodongxiaren/article/details/23690801 "悬停显示")
-####链接本仓库里的URL
+###链接本仓库里的URL
 [Book](./Book)
+###锚点
+[点此回到目录](#index)
 
-
-##显示图片
+##<a name="pic"/>显示图片
 ###来源于网络的图片
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 ###GitHub仓库中的图片
@@ -54,7 +79,7 @@ Thank `You` . Please `Call` Me `Coder`
 [![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
 [head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
 
-##圆点符号
+##<a name="dot"/>圆点列表
 * 昵称：果冻虾仁
 * 别名：隔壁老王
 * 英文名：Jelly
@@ -64,7 +89,7 @@ Thank `You` . Please `Call` Me `Coder`
     * 脚本语言
         * Python
 
-##字符包围
+##<a name="symbol"/>字符包围
 ###用于列表
 >数据结构
 >>树
@@ -80,7 +105,7 @@ Thank `You` . Please `Call` Me `Coder`
 “……下面我要告诉你的是，Lilliput和Blefuscu这两大强国在过去36个月里一直在苦战。战争开始是由于以下的原因：我们大家都认为，吃鸡蛋前，原始的方法是打破鸡蛋较大的一端，可是当今的皇帝的祖父小时候吃鸡蛋，一次按古法打鸡蛋时碰巧将一个手指弄破了，因此他的父亲，当时的皇帝，就下了一道敕令，命令全体臣民吃鸡蛋时打破较小的一端，违令者重罚。”
 
 
-##插入代码
+##<a name="code"/>代码高亮
 ```Java
 public static void main(String[]args){} //Java
 ```
