@@ -6,6 +6,9 @@ This is a repository using to test all kinds of functions of GitHub.
 ###　　　　　　　　　 E-mail:wlyrics@163.com
 
 ===========================
+
+
+
 ##<a name="index"/>目录
 * [横线](#line)
 * [标题](#title)
@@ -88,6 +91,15 @@ Thank `You` . Please `Call` Me `Coder`
 * 编程语言
     * 脚本语言
         * Python
+
+###另一种列表写法
+- C
+- C++
+- Java
+- [] Qt
+- [] Android
+- [x] C#
+- [x] .NET
 
 ##<a name="symbol"/>字符包围
 ###用于列表
