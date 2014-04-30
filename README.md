@@ -26,7 +26,7 @@ This README.md is used to testing all kinds of syntax of GitHub Flavored Markdow
 * [显示图片](#pic)
     * 来源于网络的图片
     * GitHub仓库中的图片
-* [圆点列表](#dot)
+* [列表](#dot)
 * [符号包围](#symbol)
 * [代码高亮](#code)
 
