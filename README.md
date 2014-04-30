@@ -1,6 +1,6 @@
 TEST
 ===========================
-This is a repository using to test all kinds of functions of GitHub.
+This README.md is used to testing all kinds of syntax of GitHub Flavored Markdown.
 ---------------------------
 ###　　　　　　　　　　　　Author:Jelly
 ###　　　　　　　　　 E-mail:wlyrics@163.com
@@ -82,7 +82,8 @@ Thank `You` . Please `Call` Me `Coder`
 [![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
 [head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
 
-##<a name="dot"/>圆点列表
+##<a name="dot"/>列表
+###圆点列表
 * 昵称：果冻虾仁
 * 别名：隔壁老王
 * 英文名：Jelly
@@ -92,14 +93,14 @@ Thank `You` . Please `Call` Me `Coder`
     * 脚本语言
         * Python
 
-###另一种列表写法
-- C
-- C++
-- Java
-- [] Qt
-- [] Android
-- [x] C#
-- [x] .NET
+### 复选框列表
+- [x] C
+- [x] C++
+- [x] Java
+- [x] Qt
+- [x] Android
+- [ ] C#
+- [ ] .NET
 
 ##<a name="symbol"/>字符包围
 ###用于列表
